@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(43,11): warning C4013: 'init_rand' undefined; assuming extern returning int
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(45,17): warning C4013: 'leitura_inicial' undefined; assuming extern returning int
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(53,11): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(60,40): warning C4013: 'gera_matriz_inicial' undefined; assuming extern returning int
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(60,65): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(62,104): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(67,26): warning C4013: 'copia' undefined; assuming extern returning int
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(67,53): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(97,66): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(99,96): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(113,98): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(116,56): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(120,14): warning C4013: 'transfere' undefined; assuming extern returning int
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(126,97): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Ramalho\source\repos\TP_IIA\main.c(138,47): warning C4013: 'calcula_solucao' undefined; assuming extern returning int
+  TP_IIA.vcxproj -> C:\Users\Ramalho\source\repos\TP_IIA\Debug\TP_IIA.exe

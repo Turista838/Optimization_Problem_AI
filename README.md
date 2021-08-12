@@ -2,10 +2,6 @@
 
 ### Project developed for 'Introduction to Artificial Intelligence', a second year subject @ISEC
 
-#### Introduction:
-
-
-
 #### Guide:
 Inside Main.c you need to setup which .txt to use by commenting/uncommenting the ```#define FILE```.
 

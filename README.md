@@ -1,8 +1,9 @@
 # Optimization_Problem_AI
 
-#### Project developed for 'Introduction to Artificial Intelligence', a second year subject @ISEC
+### Project developed for 'Introduction to Artificial Intelligence', a second year subject @ISEC
 
-### Guide:
+
+#### Guide:
 Inside Main.c you need to setup which .txt to use by commenting/uncommenting the #define FILE.
 
 After that you have the following options:

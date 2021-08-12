@@ -8,7 +8,7 @@ Inside Main.c you need to setup which .txt to use by commenting/uncommenting the
 
 After that you have the following options:
 
-- #define ALGORITMO -> '1' for hill-climbing algorithm || '2' for genetic algorithm (only this one can use hybrid method)
+- ```#define ALGORITMO``` -> '1' for hill-climbing algorithm || '2' for genetic algorithm (only this one can use hybrid method)
 
 - #define DEFAULT_RUNS -> Number of runs to consider (used by both hill-climbing algorithm and genetic algorithm)
 
